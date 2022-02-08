@@ -11,32 +11,35 @@ section:
 # Your experiences
 experiences:
   - company:
-      name: Example Co.
-      url: "https://www.example.com"
-      location: Dhaka Branch
+      name: Clobotics
+      url: "https://clobotics.com/"
+      location: Shanghai, China
       # company overview
-      overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+      overview: Clobotics’ end-to-end solutions combine computer vision, machine learning, and data analytics software, including autonomous drones and IoT devices.
     positions:
-      - designation: Senior Software Engineer
-        start: Nov 2019
+      - designation: Software Engineer
+        start: Oct 2020
         # don't provide end date if you are currently working there. It will be replaced by "Present"
         # end: Dec 2020
         # give some points about what was your responsibilities at the company.
         responsibilities:
-          - Design and develop XYZ tool for ABC task
-          - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-          - Lead backend team.
+          - Using Canvas, fabric and pixijs to build filexible data annotation tool.
+          - Using Antd to buid reusable and complex components with responsive user interface
+          - Implement Labeling Templates including Image Classification and Object Detection
+          - Using gitlab-ci and docker to do CI/CD
+          - Added integration with Google Map API
+          - Code reviews for other team members to achieve maintainable and high-quality code
 
   - company:
-      name: PreExample Co.
-      url: "https://www.preexample.com"
-      location: Nowhere
-      overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+      name: Walmart Labs
+      url: "https://careers.walmart.com/technology"
+      location: Fremont
+      overview: Walmart is a Leading company in Retail.
     positions:
       - designation: Software Engineer
-        start: March 2016
-        end: May 2017
+        start: Oct 2019
+        end: Oct 2020
         responsibilities:
-          - Write lots of example codes.
-          - Read lots of examples.
-          - See lots of example videos.
+          - Composed reusable components and style guidelines.
+          - Built the Redux-Saga middle ware to port API response to Redux store.
+          - Worked in an Agile/Scrum team

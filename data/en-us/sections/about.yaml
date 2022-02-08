@@ -11,21 +11,21 @@ section:
 designation: Software Engineer
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Clobotics
+  url: "https://clobotics.com/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a passionate software engineer with 3 years of working experience creating, developing, and maintaining complex business web applications and internal management systems. I built responsive websites, web apps, and interactive features that drive business growth and improve UX dealing with large products. Familiar at Modern JS frameworks (React/Vue), UI/UX transation, API integration, and many more. Project Management experience with JIRA. Experience applying agile workflows in existing teams. Fast and reliable. Extremely responsible, dedicated and always motivated to learn.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
   - name: Github
     icon: "fab fa-github"
-    url: "https://www.github.com/example"
+    url: "https://www.github.com/cukpupk"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
@@ -35,5 +35,9 @@ softSkills:
     percentage: 85
     color: blue
   - name: Team Work
-    percentage: 90
+    percentage: 100
     color: yellow
+  - name: Hard Working
+    type: soft-skill-indicator
+    percentage: 100
+    color: orange

@@ -10,15 +10,15 @@ section:
 
 # Your achievements achievements
 achievements:
-  - title: Best Presenter
+  - title: Winner of the Design Day
     image: /images/sections/achievements/presenter.jpg
-    summary: Best presenter in the 2020 XYZ conference.
-  - title: Champion
-    image: /images/sections/achievements/sport.jpg
-    summary: Champion in cycling inter-city cycling championship 2020.
-  - title: Graduation
-    image: /images/sections/achievements/graduation-cap.jpg
-    summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
-  - title: Award Winner
+    summary: Gain First at Michigan State University Final Design Day
+  - title: EKU Schoolarship
     image: /images/sections/achievements/woman-winner.jpg
-    summary: Wined best paper award at IEE Conference 2020.
+    summary: Get EKU schoolarship and Successfully coached about 35 students and various troubleshooting errors in Math class as teaching assistance
+#  - title: Graduation
+#    image: /images/sections/achievements/graduation-cap.jpg
+#    summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
+#  - title: Award Winner
+#    image:
+#    summary: Wined best paper award at IEE Conference 2020.

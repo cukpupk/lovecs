@@ -2,6 +2,6 @@
 section:
   name: Recent Posts
   id: recent-posts
-  enable: true
+  enable: false
   weight: 5
-  showOnNavbar: true
+  showOnNavbar: false

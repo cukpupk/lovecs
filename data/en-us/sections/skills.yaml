@@ -11,16 +11,33 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+
+  - name: JavaScript
+    logo: "/images/sections/skills/logo-javascript.svg"
+    summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+
+  - name: React
+    logo: "/images/sections/skills/react.svg"
+    summary: "Familiar with React Lifecycles and react libraries and middlewares"
+
+  - name: Vue
+    logo: "/images/sections/skills/vue.svg"
+    summary: "Have used Vue 2.0 and Vue 3.0 to develop web applications and wechat apps"
+
+  - name: Docker
+    logo: "/images/sections/skills/docker.svg"
+    summary: "Write most of the programs as dockerized container."
+    url: "https://www.docker.com/"
+
+  - name: Git
+    logo: "/images/sections/skills/git.png"
+    summary: "Experienced with git-based development. Mostly, use Gitlab. Also, have experience in working with GitHub."
+    url: "https://git-scm.com/"
+
   - name: Kubernetes
     logo: "/images/sections/skills/kubernetes.png"
-    summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-    url: "https://kubernetes.io/"
-
-  - name: Go Development
-    logo: "/images/sections/skills/go.png"
-    summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-    url: "https://golang.org/"
-
-  - name: Cloud Computing
-    logo: "/images/sections/skills/cloud.png"
-    summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+    summary: "Capable of deploying, managing application on Kubernetes."
+#
+#   - name: Go Development
+#     logo: "/images/sections/skills/go.png"
+#     summary: ""
