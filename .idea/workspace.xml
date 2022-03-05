@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91ba921e-c169-4a5f-838c-eb5be2b33bad" name="Default Changelist" comment="personal info">
-      <change afterPath="$PROJECT_DIR$/content/posts/Performance-Improvement-using-indexdb/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/en-us/sections/recent-posts.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/en-us/sections/recent-posts.yaml" afterDir="false" />
+    <list default="true" id="91ba921e-c169-4a5f-838c-eb5be2b33bad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644305526845</updated>
       <workItem from="1644305528027" duration="13790000" />
-      <workItem from="1646489805487" duration="6484000" />
+      <workItem from="1646489805487" duration="6805000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1644308468958</created>
@@ -87,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644340784072</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="first post">
+      <created>1646496307512</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1646496307512</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,17 +101,18 @@
     <MESSAGE value="init" />
     <MESSAGE value="bug fix" />
     <MESSAGE value="personal info" />
-    <option name="LAST_COMMIT_MESSAGE" value="personal info" />
+    <MESSAGE value="first post" />
+    <option name="LAST_COMMIT_MESSAGE" value="first post" />
   </component>
   <component name="WindowStateProjectService">
     <state x="457" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1644305836109">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="457" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.875@0.25.1440.875" timestamp="1644305836109" />
-    <state x="151" y="25" key="CommitChangelistDialog2" timestamp="1644340783877">
+    <state x="151" y="25" key="CommitChangelistDialog2" timestamp="1646496307332">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="151" y="25" key="CommitChangelistDialog2/0.25.1440.875@0.25.1440.875" timestamp="1644340783877" />
+    <state x="151" y="25" key="CommitChangelistDialog2/0.25.1440.875@0.25.1440.875" timestamp="1646496307332" />
     <state x="0" y="98" key="DiffContextDialog" timestamp="1644340781179">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
@@ -120,10 +125,10 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="512" y="85" key="RollbackChangesDialog/0.25.1440.875@0.25.1440.875" timestamp="1644309190142" />
-    <state x="320" y="195" key="Vcs.Push.Dialog.v2" timestamp="1644340788482">
+    <state x="320" y="195" key="Vcs.Push.Dialog.v2" timestamp="1646496316490">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="320" y="195" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1644340788482" />
+    <state x="320" y="195" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1646496316490" />
     <state x="519" y="376" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1644340996154">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
