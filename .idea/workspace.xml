@@ -1,38 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91ba921e-c169-4a5f-838c-eb5be2b33bad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/sections/skills/logo-javascript.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/sections/skills/react.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/sections/skills/vue.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/files/resume.pdf" afterDir="false" />
+    <list default="true" id="91ba921e-c169-4a5f-838c-eb5be2b33bad" name="Default Changelist" comment="personal info">
+      <change afterPath="$PROJECT_DIR$/content/posts/Performance-Improvement-using-indexdb/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/_index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/404.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/404.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/about.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/default-avatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/default-background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/default-hero.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/hugo-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/inverted-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/list.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/main-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/single.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/theme-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/tn2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/en-us/author.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/en-us/author.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/en-us/sections/about.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/en-us/sections/about.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/en-us/sections/achievements.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/en-us/sections/achievements.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/en-us/sections/experiences.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/en-us/sections/experiences.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/en-us/sections/projects.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/en-us/sections/projects.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/en-us/sections/recent-posts.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/en-us/sections/recent-posts.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/en-us/sections/skills.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/en-us/sections/skills.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/en-us/site.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/en-us/site.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/toha/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/toha/layouts/partials/footer.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +13,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/toha" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="24omtHa9htEsCmuOCna06sJGABs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -55,6 +34,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/sections/skills" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -77,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644305526845</updated>
       <workItem from="1644305528027" duration="13790000" />
+      <workItem from="1646489805487" duration="6484000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1644308468958</created>
@@ -99,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644311473125</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="personal info">
+      <created>1644340784072</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644340784072</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,28 +96,41 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="bug fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="bug fix" />
+    <MESSAGE value="personal info" />
+    <option name="LAST_COMMIT_MESSAGE" value="personal info" />
   </component>
   <component name="WindowStateProjectService">
     <state x="457" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1644305836109">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="457" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.875@0.25.1440.875" timestamp="1644305836109" />
-    <state x="151" y="25" key="CommitChangelistDialog2" timestamp="1644311472879">
+    <state x="151" y="25" key="CommitChangelistDialog2" timestamp="1644340783877">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="151" y="25" key="CommitChangelistDialog2/0.25.1440.875@0.25.1440.875" timestamp="1644311472879" />
+    <state x="151" y="25" key="CommitChangelistDialog2/0.25.1440.875@0.25.1440.875" timestamp="1644340783877" />
+    <state x="0" y="98" key="DiffContextDialog" timestamp="1644340781179">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="0" y="98" key="DiffContextDialog/0.25.1440.875@0.25.1440.875" timestamp="1644340781179" />
+    <state width="386" height="466" key="Git.Branch.Popup" timestamp="1644340848857">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="386" height="466" key="Git.Branch.Popup/0.25.1440.875@0.25.1440.875" timestamp="1644340848857" />
     <state x="512" y="85" key="RollbackChangesDialog" timestamp="1644309190142">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="512" y="85" key="RollbackChangesDialog/0.25.1440.875@0.25.1440.875" timestamp="1644309190142" />
-    <state x="320" y="195" key="Vcs.Push.Dialog.v2" timestamp="1644311474586">
+    <state x="320" y="195" key="Vcs.Push.Dialog.v2" timestamp="1644340788482">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="320" y="195" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1644311474586" />
-    <state x="422" y="201" width="595" height="522" key="find.popup" timestamp="1644338086927">
+    <state x="320" y="195" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1644340788482" />
+    <state x="519" y="376" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1644340996154">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="422" y="201" width="595" height="522" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1644338086927" />
+    <state x="519" y="376" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.875@0.25.1440.875" timestamp="1644340996154" />
+    <state x="422" y="201" width="595" height="522" key="find.popup" timestamp="1646492818432">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="422" y="201" width="595" height="522" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1646492818432" />
   </component>
 </project>
